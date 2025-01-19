@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to mutable variables in F#. The `add` function modifies both input variables, leading to an unexpected result. The solution showcases how to use immutability and avoid these issues.  The files are written in F#.
